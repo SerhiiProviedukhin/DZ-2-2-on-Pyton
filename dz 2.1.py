@@ -1,0 +1,6 @@
+print(15 + 25)
+print(15 - 40)
+print(14 * 6)
+print( 24 / 5)
+print(24 // 5)
+print(15 ** 2)
